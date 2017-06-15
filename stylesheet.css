@@ -1,1 +1,62 @@
-span {emphasis;}
+
+body {background-color: #ffbb33;}
+
+
+
+
+
+
+span {font-style:italic;
+      font-weight:bold;
+      font-size:1.25em;}
+
+h1 {text-align: center;
+    font-family:cursive;}
+
+p {font-size: 1.1em;
+   font-family: cursive;
+   color: #0000e6;}
+
+#first {margin:auto;
+        width:55%;}
+
+#second {margin:auto;
+         width: 65%;}
+
+#third {margin:auto;
+        width:80%;}
+
+#last {margin:auto;
+       width: 65%;}
+
+h2 {text-align: center;
+    font-family: cursive;}
+
+
+a img {display: block;
+                margin-left: center;
+                margin-right: center;}
+
+footer {text-align: center;
+        font-size:.75em;
+        font-family: cursive;}
+
+img.toilet {display: block;
+            margin-left: auto;
+            margin-right: auto; }
+
+ img.eagle {display: block;
+            margin-left: auto;
+            margin-right: auto;}
+
+img.salmon {display: block;
+            margin-left: auto;
+            margin-right: auto;}
+
+img.kids {display: inline-flex;
+          margin-left:auto;
+          margin-right: auto;}
+
+img.clan {display: block;
+          margin-left: auto;
+          margin-right: auto;}
